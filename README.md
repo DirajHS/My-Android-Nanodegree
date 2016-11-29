@@ -1,5 +1,6 @@
 # My-Android-Nanodegree
-
+[![Crates.io](https://img.shields.io/crates/l/rustc-serialize.svg?maxAge=2592000)]() 
+[![https://travis-ci.org/DirajHS/My-Android-Nanodegree](https://travis-ci.org/DirajHS/My-Android-Nanodegree.svg?branch=master)]()
 <p align="justify">
 This is the first App in the Udacity Android Nanodegree course. This app was intended to get familiarize with Android Studio and building a simple application. It contains link to other Android applications that will be built throughout the course.
 </p>
