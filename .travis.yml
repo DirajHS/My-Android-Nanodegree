@@ -1,0 +1,11 @@
+language: android
+android:
+    components:
+      - platform-tools
+      - tools
+      - build-tools-
+      - android-23
+      
+script:
+    ./gradlew clean assembleDebug --info
+      
